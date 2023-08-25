@@ -8,3 +8,7 @@ Clone the repository to your local machine and add a keys.py with the proper TO_
 
 ![Beautiful Soup Version](https://img.shields.io/badge/Beautiful%20Soup-v4.12.2-blue)
 ![yagmail](https://img.shields.io/badge/yagmail-v0.15.293-darkgreen)
+
+## Work in progress
+
+Currently, you can use a Cron job to run the script at certain times during the day, but I am working on adding serverless automation with AWS Lambda.
